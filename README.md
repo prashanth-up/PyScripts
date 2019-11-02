@@ -10,3 +10,6 @@ A Speech Assistant based on pure Python which can execute basic Native web-based
 
 # 2. Music.py
 A python-library called 'winsound' is used to achieve binary sounds or 'beeps' using 16-bits of data. A guide is provided in the .py file as to how it works with the music notations of the binary sounds.
+
+# 3. Decrypt the Word
+A simple .py script which tries to guess the user-given word by running all iterations in each character. Includes Alphabets and Numbers only.
