@@ -13,3 +13,6 @@ A python-library called 'winsound' is used to achieve binary sounds or 'beeps' u
 
 # 3. Decrypt the Word
 A simple .py script which tries to guess the user-given word by running all iterations in each character. Includes Alphabets and Numbers only.
+
+# 4. Colors
+A game based on tkinter library with a basic GUI to guess the displayed color on text.
