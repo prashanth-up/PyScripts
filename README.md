@@ -16,3 +16,6 @@ A simple .py script which tries to guess the user-given word by running all iter
 
 # 4. Colors
 A game based on tkinter library with a basic GUI to guess the displayed color on text.
+
+# 5. Keylogger
+A script to log the keystrokes from the user. Can be exited using the delete key. The keystrokes are saved in a log.txt file.
