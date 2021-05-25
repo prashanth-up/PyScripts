@@ -1,6 +1,5 @@
-# Python Projects
-This repository contains all small range projects made out of pure python.
-Below given are a list of my personal projects.
+# PyScripts
+This repository contains all small range scripts made on python.
 
 # How to use ?
 Run the .py file in your local code editor or a python shell to use it.
