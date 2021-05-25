@@ -16,3 +16,6 @@ A game based on tkinter library with a basic GUI to guess the displayed color on
 
 # 4. Keylogger
 A script to log the keystrokes from the user. Can be exited using the delete key. The keystrokes are saved in a log.txt file.
+
+# 5. n_queen_problem
+A script to emulate and solve the FAMOUS n_queen Problem in backtracking set of algorithms
